@@ -15,8 +15,8 @@ Each project folder contains:
 
 - [01 - Active Directory setup Lab](./01-ActiveDirectory-Lab/LAB.md) | Network & Domain Configuration | ✔️ **Complete** |
 - [02 - Blue Team SIEM setup Lab](./02-BlueTeam-SIEM-Lab/LAB.md) | Wazuh SIEM setup, agent onboarding, log analysis | ✔️ **Complete** |
-- [03 - Threat Simulation lab](./03-ThreatSimulation-Lab/LAB.md) | Simulated attacks & alert validation | 🔜 **In progress** |
-- [04 - Incident Response playbooks](./04-IncidentResponse-Lab/LAB.md) | Alert triage & escelation process | 🔜 **Planned** |
+- [03 - Threat Simulation lab](./03-ThreatSimulation-Lab/LAB.md) | Simulated attacks & alert validation | ✔️ **Complete** |
+- [04 - Sysmon Network Visibility lab](./04-NetworkVisibility-Lab/LAB.md) | Alert triage & escelation process | 🔜 **In progress** |
 
 ## 🧰 Tools & Tech
 
