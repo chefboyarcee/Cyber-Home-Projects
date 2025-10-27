@@ -64,9 +64,9 @@ Reproduce code from well known sources that is safe to use on my Virtual Machine
 
 - There are at 29 distinct Sysmon Event ID's
 - GUI's are simple tools to use for a user for visibility and simplicity, where as the CLI is a powerful tool that allows for an extensive range of flexibility of creating, downloading, running scripts, etc.
-Bad actors can successfully hide code in encoded command strings that are not human readable to an untrained eye.
-The $ command creates a variable. Example: $variable
-Powershell variables use = to save commands to that variable. Example: $command = "echo 'Hello World!' > C:\Windows\Temp\test.txt" saves the string Hello World to the text file test.txt.
+- Bad actors can successfully hide code in encoded command strings that are not human readable to an untrained eye.
+- The \$ command creates a variable. Example: \$variable
+- Powershell variables use = to save commands to that variable. Example: $command = "echo 'Hello World!' > C:\Windows\Temp\test.txt" saves the string Hello World to the text file test.txt.
 - -EncodedCommand uses base64 encoded strings that also run whatever that string says.
 
 ***
