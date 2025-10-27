@@ -44,3 +44,5 @@ This problem occured as a result of the Windows 10 Client trying to find mylab.l
 - Planning IPs ahead prevents future issues.  
 - This is the beginning of a long journey ahead. Whenever something breaks it will be on me and me alone to fix.
 - IT systems are complex and will come with a plethora of issues that need resolving.
+
+***

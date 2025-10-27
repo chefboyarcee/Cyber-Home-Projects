@@ -91,3 +91,5 @@
 - Wazuh dashboard uses port 443. Wazuh agent communication through manager uses port 1514. Agent enrollment uses port 1515.
 - Proper network configuration (Host-only) ensures inter-VM connectivity.
 - Reinforced the importance of documenting every error, solution, and configuration step clearly.
+
+***
