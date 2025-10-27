@@ -27,5 +27,5 @@ Windows Server | Windows 10 | pfSense | Splunk | Ubuntu | PowerShell | Wireshark
 ***
 
 - GitHub: [@chefboyarcee](https://github.com/chefboyarcee)
-- Email: christopher.pound3@gmail.com
+- Email: <christopher.pound3@gmail.com>
 - Linkedin:[Christopher Hatcher-Wilson](https://www.linkedin.com/in/christopher-hatcher-wilson/)
