@@ -1,7 +1,7 @@
-# Cyber-Home-Projects
+# SOC-Analyst Projects
 
-Welcome to my cybersecurity home lab portfolio!  
-This repository documents my learning journey as I build, break, and secure systems in a safe lab environment through daily/weekly cybersecurity projects.
+Welcome to my SOC Analyst home lab portfolio!  
+This repository documents my learning journey as I build, break, and secure systems in a safe lab environment through daily/weekly SOC practice projects.
 
 Each project folder contains:
 
@@ -15,8 +15,9 @@ Each project folder contains:
 
 - [01 - Active Directory setup Lab](./01-ActiveDirectory-Lab/LAB.md) | Network & Domain Configuration | ✔️ **Complete** |
 - [02 - Blue Team SIEM setup Lab](./02-BlueTeam-SIEM-Lab/LAB.md) | Wazuh SIEM setup, agent onboarding, log analysis | ✔️ **Complete** |
-- [03 - Threat Simulation lab](./03-ThreatSimulation-Lab/LAB.md) | Simulated attacks & alert validation | ✔️ **Complete** |
-- [04 - Sysmon Network Visibility lab](./04-NetworkVisibility-Lab/LAB.md) | Alert triage & escelation process | 🔜 **In progress** |
+- [03 - Sysmon lab](./03-Sysmon-Lab/LAB.md) | Sysmon setup and validation | ✔️ **Complete** |
+- [04 - Sysmon Network Visibility Lab](./04-NetworkVisibility-Lab/LAB.md) | Alert triage & escalation process | ✔️ **Complete** |
+- [05 -Threat Simulation Lab ](./05-ThreatSimulation-Lab/LAB.md) | Simulated attacks & alert validation | 🔜 **In-Progress** |
 
 ## 🧰 Tools & Tech
 
